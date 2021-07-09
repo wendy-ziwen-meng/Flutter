@@ -1,1 +1,1 @@
-# This is a place to store some Flutter tutorials I did.
+This is a place to store some Flutter tutorials I did.
